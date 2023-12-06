@@ -2,7 +2,7 @@
 # Estadística Bayesiana - Caso de estudio I                            #
 # Fecha: 11 de septiembre de 2023                                      #
 # Integrantes: Ana Sofia Bello Dueñas                                  #
-#              German Camilo   Vasquez Herrera                         #
+#              Germán Camilo   Vásquez Herrera                         #
 #----------------------------------------------------------------------#
 
 if (!require(readr)){install.packages("readr");library(readr)}
